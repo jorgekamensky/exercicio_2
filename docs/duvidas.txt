@@ -1,0 +1,2 @@
+-> Como é o processo ideal para o inicio? O que devo construir inicialmente?
+-> product_register_view.py: 
